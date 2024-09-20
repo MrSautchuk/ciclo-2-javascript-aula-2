@@ -78,3 +78,13 @@ var minutos = duracaoEmMinutos % 60;
 
 // Exibindo o resultado no console
 console.log(`O evento durou ${duracaoEmHoras} horas e ${minutos} minutos.`);
+
+
+var Mat = 10;
+var Cie = 1;
+var Port = 5;
+
+var Med = (Mat+Cie+Port)/3;
+
+console.log(`A média do aluno é de ${Med}`);
+
